@@ -11,6 +11,10 @@
 h1
   {text-align:center;
     }
+footer{
+  background-color: gray;
+  color: white;
+  }
 footer b{
-  text-align:right;
+  text-align:end;
   }
