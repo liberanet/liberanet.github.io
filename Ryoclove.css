@@ -1,0 +1,33 @@
+header h1{
+	text-align: center;
+}
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+.instagram {
+	background-color: #e1306c;
+}
+
+.youtube {
+	background-color: #c4302b;
+}
+
+.main {
+	color: white;
+	background-color: black;
+}
